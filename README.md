@@ -1,2 +1,2 @@
-# RedditInsanity
+# Reddit Insanity
 Reddit Insanity
