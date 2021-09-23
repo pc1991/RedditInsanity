@@ -13,6 +13,30 @@ Too much stress can negatively impact our health and may lead to headaches, high
 
 A dataset of lengthy multi-domain social media data for identifying stress from five different categories of Reddit communities.
 
+
+
+![Dreadtrain Scatter Plot](https://user-images.githubusercontent.com/87962854/134457695-6d69e5f9-ff0b-46f1-9093-43f8f636fe86.png)
+
+![Fitted vs  Residuals Graph of the SVM Model of Dreadtrain](https://user-images.githubusercontent.com/87962854/134457764-36c8bfde-ffbc-46d7-94d3-cbb386724b53.png)
+
+![Dreadtest Scatter Plot](https://user-images.githubusercontent.com/87962854/134457801-04e5eda7-11cd-4ee7-ae75-e39aea55e2aa.png)
+
+![Box Plots of Dreadtest's Main Sources](https://user-images.githubusercontent.com/87962854/134457817-853ee092-7e48-4c4d-af6e-cff60e642fdf.png)
+
+![Density Plots of Dreadtest's Main Sources](https://user-images.githubusercontent.com/87962854/134457861-89cbde84-00dd-4bd9-86d1-4f5333318bce.png)
+
+![Dotplot Comparing Algorithms to Model Dreadtest](https://user-images.githubusercontent.com/87962854/134457902-452af3aa-7dcc-42cc-88b9-3727216a56fd.png)
+
+![Doplot Comparing Algorithms Ran On Dreadtest Using The Box-Cox Method](https://user-images.githubusercontent.com/87962854/134457939-ddf9a342-5a9d-4ecf-9126-164601907042.png)
+
+![Algorithm Tuning Results for SVM on Dreadtest](https://user-images.githubusercontent.com/87962854/134458100-e9331a27-d63a-46ad-b665-0af346d87be4.png)
+
+![Algorithm Tuning Results for GBM on Dreadtest](https://user-images.githubusercontent.com/87962854/134458115-8ecba2be-5c38-4f00-8f75-dc8b694bb74d.png)
+
+![Boxplot Of Validated Dreadtest](https://user-images.githubusercontent.com/87962854/134458125-dad4644e-e98d-4535-9f41-bc8bc6705e82.png)
+
+
+
 # Acknowledgements
 
 Turcan, E., & McKeown, K. (2019). Dreaddit: A Reddit dataset for stress analysis in social media. arXiv preprint arXiv:1911.00133.
